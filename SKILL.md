@@ -1,10 +1,9 @@
 ---
 name: hammer-test
-description: Strike any "truth," assumption, or received wisdom with Nietzsche's philosophical
-  hammer to determine whether it rings solid or hollow.
+description: Strike any "truth," assumption, or received wisdom with Nietzsche's philosophical hammer to determine whether it rings solid or hollow.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - hammer-test
