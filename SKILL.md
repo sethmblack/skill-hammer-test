@@ -4,7 +4,7 @@ description: Strike any "truth," assumption, or received wisdom with Nietzsche's
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4129
+  version: 1.0.4130
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hammer-test
